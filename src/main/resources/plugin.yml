@@ -1,0 +1,7 @@
+name: SFarmer
+version: '${project.version}'
+main: xyz.scropy.sfarmer.SFarmerPlugin
+api-version: 1.16
+softdepend:
+  - PlayerNPC
+  - Multiverse-Core
